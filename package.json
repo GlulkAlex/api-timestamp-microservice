@@ -1,0 +1,30 @@
+{
+  "name": "api-basejump-timestamp-microservice",
+  "version": "0.0.0",
+  "description": "A Node.js microservice app using Express 4",
+  "main": "express_Server.js",
+  "scripts": {
+    "start": "node express_Server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "engines": {
+    "nodejs": "^0.10.25",
+    "node": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/salty-sands-36881.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "api", 
+    "microservice",
+    "timestamp"
+  ],
+  "author": { "name" : "GlukAlex"},
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "API Basejump: Timestamp microservice",
+  "description": "A Node.js microservice app using Express 4",
+  "repository": "https://git.heroku.com/salty-sands-36881.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": [
+    "node", 
+    "express", 
+    "api", 
+    "microservice",
+    "timestamp"
+  ],
+  "image": "heroku/nodejs"
+}
