@@ -36,6 +36,12 @@ node_modules
 # Optional REPL history
 .node_repl_history
 
+# environment variables
 .env
+/*.env
+#/node_modules
+#npm-debug.log
+.DS_Store
+#
 Dockerfile
 docker-compose.yml
